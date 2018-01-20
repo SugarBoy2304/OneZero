@@ -10,6 +10,8 @@ import java.util.Stack;
 
 public class StateManager {
 
+    // Псмотрел в интеренете на офицальном сайте
+
     private Stack<State> states;
 
     public StateManager() {
